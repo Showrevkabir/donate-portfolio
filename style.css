@@ -62,7 +62,7 @@ h1{font-size: 50px;
 }
 
 .a{
-   background-color: aqua; 
+   background-color: rgb(219, 245, 245); 
    margin-right: 10px;    
    padding: 10px;
    border-radius: 10px;
@@ -74,7 +74,7 @@ h1{font-size: 50px;
     border-radius: 10px;
 }
 .c{
-    background-color: rgb(105, 71, 19);
+    background-color: rgb(223, 187, 133);
     padding: 10px;
     border-radius: 10px;
 }
@@ -94,9 +94,12 @@ footer{
 }
 .d{
     font-family: 'roboto', sans-serif;
-    box-sizing: border-box;
+  
 }
-
+.f{
+    background-color: tomato;
+    color: aliceblue;
+}
 .end{
     background-color: black;
 }
